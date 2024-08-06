@@ -4,8 +4,9 @@ Running the game:
 
 1. Clone the repository localy
 2. Open the containing directory
-3. Navigate into the game directory
-4. Use your prefered browser to open index.html file
+3. Navigate into slot_machine_game_assignment directory
+4. Navigate into the game directory
+5. Use your prefered browser to open index.html file
 
 
 The assignment is done using stack that includes javascript, html and css.

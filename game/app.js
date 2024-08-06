@@ -11,7 +11,7 @@ const reelsAudio = new Audio('./audio/reels-2.mp3');
 
 let totalSpins = 0,
     bet = 0,
-    credits = 5;
+    credits = 500;
 
 function increaseBet() {
   bet += 1;
